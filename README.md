@@ -1,4 +1,4 @@
-# Stduy_Materials
+# Study_Materials
 We will learn basics.. The notebooks are divided into 2 parts. 
 1) Scrap book: Where we play with data and try to learn by ourselves the new concepts: breaking all the rules of statistics etc... and playing it our way and try to come up with
 definitions by our own 
